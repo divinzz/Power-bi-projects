@@ -81,5 +81,4 @@ To deliver a centralized business intelligence tool for analyzing operational an
 
 ## 📷 Dashboard Preview
 
-<img width="1344" height="777" alt="Image" src="https://github.com/user-attachments/assets/fba5d1d8-6d37-43fb-9f5d-72db66681f26" />
-
+<img width="1344" height="777" alt="Image" src="https://github.com/user-attachments/assets/cb23c17e-e80e-47ab-b140-80ea6440e8d2" />
