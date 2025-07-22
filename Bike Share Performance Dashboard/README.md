@@ -1,4 +1,4 @@
-# 🚴‍♂️ Bike Share Business Analysis Dashboard – Power BI
+# 🚴‍♂️ Bike Share Business Analysis Dashboard – Power BI + SQL
 
 A dynamic **Power BI dashboard** developed to analyze critical business metrics for a **bike sharing service**, focusing on **profitability**, **rider trends**, **seasonal performance**, and **user demographics**. The dashboard empowers decision-makers to uncover key revenue insights, monitor KPIs over time, and optimize business strategy with visually intuitive data storytelling.
 
