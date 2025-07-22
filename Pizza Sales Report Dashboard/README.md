@@ -120,4 +120,5 @@ Designed an interactive and dynamic Power BI dashboard using 2015 pizza sales da
 ## 🖼️ Dashboard Preview
 
 <img width="1337" height="757" alt="Image" src="https://github.com/user-attachments/assets/4557b89c-ab31-47b1-9ee5-f6f61b8c338a" />
+
 <img width="1341" height="767" alt="Image" src="https://github.com/user-attachments/assets/a8550883-8882-4536-83f9-1f1cd9a76eb9" />
