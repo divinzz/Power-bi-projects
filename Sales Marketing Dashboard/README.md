@@ -83,6 +83,6 @@ Designed a dynamic and user-friendly dashboard using **hypothetical e-commerce d
 ## 🖼️ Dashboard Preview
 
 
-<img width="1379" height="767" alt="Image" src="https://github.com/user-attachments/assets/f5df60ab-332d-4a9b-8ae9-2aa37e723605" />
+<img width="1379" height="767" alt="Image" src="https://github.com/user-attachments/assets/53b95f82-afaa-44e7-811f-a9efa041d9f8" />
 
-<img width="1347" height="767" alt="Image" src="https://github.com/user-attachments/assets/6462e1ac-0227-4d62-8700-2e8acb98021a" />
+<img width="1347" height="767" alt="Image" src="https://github.com/user-attachments/assets/50ea3195-0e1c-42ba-a730-821b28cf7086" />
