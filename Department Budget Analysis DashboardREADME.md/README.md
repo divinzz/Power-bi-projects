@@ -1,4 +1,4 @@
-# 🏢 Departmental Performance & Capital Utilization Dashboard – Power BI
+# 🏢 Department Budget Analysis Dashboard – Power BI
 
 An interactive and visually compelling **Power BI dashboard** designed to monitor **departmental performance**, **project allocation**, and **capital utilization** across core business units: Engineering, Marketing, Sales, HR, and IT. This project integrates multiple datasets using **SQL and DAX**, offering a unified view of employee metrics, project budgets, and financial KPIs for strategic decision-making.
 
