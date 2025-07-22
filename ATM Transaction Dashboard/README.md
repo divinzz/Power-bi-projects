@@ -86,6 +86,8 @@ A comprehensive **Power BI dashboard** designed to monitor and analyze the perfo
 
 ## 🖼️ Dashboard Preview
 
-<img width="1389" height="767" alt="Image" src="https://github.com/user-attachments/assets/04656461-0431-45d9-955f-9b2e7b4b8efe" />
-<img width="1361" height="760" alt="Image" src="https://github.com/user-attachments/assets/4e181d11-87e9-4e4c-9d83-a9d36059b0b0" />
-<img width="1342" height="738" alt="Image" src="https://github.com/user-attachments/assets/35fd6b5e-5aac-4769-8eb5-c45c8efeed40" />
+<img width="1389" height="767" alt="Image" src="https://github.com/user-attachments/assets/6a797b8b-e57c-4b85-beb9-1c41328cc456" />
+
+<img width="1361" height="760" alt="Image" src="https://github.com/user-attachments/assets/2d772cd9-0911-4c0d-8129-f96a96d64427" />
+
+<img width="1342" height="738" alt="Image" src="https://github.com/user-attachments/assets/248ba519-8d96-41bb-8ddf-819c5a933216" />
