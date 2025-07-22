@@ -99,4 +99,4 @@ Useful for **HR review and individual performance analysis**
 
 ## 🖼️ Dashboard Preview
 
-<img width="1339" height="765" alt="Image" src="https://github.com/user-attachments/assets/68fdf7eb-5c1e-4714-ba48-6ad018f2d475" />
+<img width="1339" height="765" alt="Image" src="https://github.com/user-attachments/assets/47c09a51-2792-462b-8f53-eb76088395f0" />
